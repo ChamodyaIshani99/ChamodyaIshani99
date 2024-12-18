@@ -2,7 +2,7 @@
 <h3 align="center">I am a third-year student at SLIIT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodyaishani99&label=Profile%20views&color=0e75b6&style=flat" alt="chamodyaishani99" /> </p>
-
+---
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **React**
