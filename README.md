@@ -4,7 +4,6 @@
 ---
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **chamodyaishani10@gmail.com**
 
