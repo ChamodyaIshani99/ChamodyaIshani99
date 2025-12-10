@@ -1,19 +1,128 @@
-<h1 align="center">Hi 👋, I'm Chamodya</h1>
-<h3 align="center">I am a third-year student at SLIIT.</h3>
-
----
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **chamodyaishani10@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
+<!-- Banner (You can replace with your custom image URL) -->
 <p align="center">
-<a href="https://linkedin.com/in/chamodyaishani10@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamodyaishani10@gmail.com" height="30" width="40" /></a>
-<a href="https://fb.com/chamodyaishani10@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamodyaishani10@gmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/chamodyaishani10@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamodyaishani10@gmail.com" height="30" width="40" /></a>
+  <img src="https://i.imgur.com/8MupZHY.gif" width="100%" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">
+  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Chamodya
+</h1>
+
+<!-- Animated Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&color=FF69B4&center=true&vCenter=true&width=600&lines=SLIIT+IT+Undergraduate;Frontend+Developer;MERN+Stack+Learner;AI+%2B+IoT+Researcher;Tech+Enthusiast" />
+</p>
+
+---
+
+## 🌟 About Me  
+💻 Passionate **React & MERN Stack Developer**  
+🎓 3rd-year IT undergraduate at **SLIIT**  
+🤖 Interested in **AI, IoT, NLP & modern UI/UX**  
+⚡ Love creating **beautiful, clean & responsive** interfaces  
+📫 Email: **chamodyaishani10@gmail.com**
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/chamodya-ishani"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://facebook.com/chamodya.ishani"><img height="40" src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://instagram.com/chamodya_ishani"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,java,python,c,cpp,php,git,figma,postman,vscode" />
+</p>
+
+---
+
+## 🧩 Featured Projects (Grid Style)
+<table>
+<tr>
+<td align="center">
+  
+### 🧠 Elderly Sleep Disorder Prediction  
+AI + Mobile sensors to predict sleep quality  
+🔹 ML Models  
+🔹 Health Monitoring  
+
+</td>
+<td align="center">
+
+### 🌟 Smart Community Care Platform  
+IoT + AI based community safety system  
+🔹 Fall detection  
+🔹 Task management  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🧾 POS System with Pagination  
+Full-stack MERN POS system  
+🔹 Advanced pagination  
+🔹 CRUD features  
+
+</td>
+
+<td align="center">
+
+### 💳 Fraud Detection System  
+Deep learning classification  
+🔹 4 supervised ML models  
+🔹 High accuracy  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chamodya&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Chamodya&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamodya&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chamodya&theme=radical&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+## 🧊 3D Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/master/docs/demo/profile-gitblock.svg" width="700">
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## ✨ Quote  
+> *"Great developers are always learning, experimenting, and improving."*
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
+</p>
+
+
