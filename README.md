@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R5bTl5YnRzd2JpMGNyd2pwdzc3bTA1d2licW9yczZhMzVsMnNjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" width="50%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R5bTl5YnRzd2JpMGNyd2pwdzc3bTA1d2licW9yczZhMzVsMnNjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" width="30%" />
 </p>
 
 <h1 align="center">
@@ -91,10 +91,6 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" alt="TensorFlow" />
 </p>
 
-<!-- Bottom GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" style="margin: 0; padding: 0; display: block;" />
-</p>
 
 
 
