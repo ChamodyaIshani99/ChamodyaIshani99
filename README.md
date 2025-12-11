@@ -91,6 +91,21 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" alt="TensorFlow" />
 </p>
 
+<table>
+  <tr>
+    <td width="50%">
+    
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ChamodyaIshani99&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ChamodyaIshani99&theme=ocean_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaIshani99&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  </td>
+  <td width="50%">
 
+  ## 🔝 Top Contributed Repos
+  <img src="https://github-contributor-stats.vercel.app/api?username=ChamodyaIshani99&limit=5&theme=synthwave&combine_all_yearly_contributions=true" />
 
+  </td>
+  </tr>
+</table>
 
