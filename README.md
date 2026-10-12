@@ -1,111 +1,59 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R5bTl5YnRzd2JpMGNyd2pwdzc3bTA1d2licW9yczZhMzVsMnNjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" width="30%" />
 </p>
 
-<h1 align="center">
-  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Chamodya
-</h1>
+<h1 align="center">Hi, I'm Chamodya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&color=FF69B4&center=true&vCenter=true&width=800&lines=Final+Year+Undergraduate+at+SLIIT;Tech+Enthusiast+%E2%9D%A4%EF%B8%8F;Frontend+Developer+%26+MERN+Stack+Learner;Loves+Programming+%26+Constantly+Learning;Always+Keen+to+Explore+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=800&lines=Software+Engineer;React+%7C+Node.js+%7C+Spring+Boot;SLIIT+IT+Graduate+(BSc+Hons)+2026;Open+to+Software+Engineer+%2F+Web+Developer+roles" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/chamodya10/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chamodyaishani10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/94789516416"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- About Me and GIF -->
-<table>
-  <tr>
-    <!-- Left Column: About Me -->
-    <td width="65%" valign="top" style="padding-right: 15px;">
-**🌟 About Me**<br>
-🎓 Final-year IT undergraduate at **SLIIT**<br>
-💻 Passionate **Frontend & MERN Stack Developer**<br>
-🤖 Interested in **AI, ML & modern UI/UX**<br>
-🔥 Tech enthusiast who loves exploring new tools & technologies<br>
-💡 Always eager to learn, improve, and try out new programming concepts<br>
-✨ Love building **clean, modern, and responsive** web interfaces<br>
-📫 Email: **chamodyaishani10@gmail.com**
-    </td>
-  <td width="35%" align="center" valign="top">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRvczZ1MXRqaDByamZvc3R1ZHd6Y254c2hzY2xrdmV5ODV4dml0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxNrcjA9OycHAjpA7x/giphy.gif" width="80%" />
-    </td>
-  </tr>
-</table>
+## 👩‍💻 About Me
+
+- 🎓 BSc (Hons) in Information Technology graduate from **SLIIT** (2026)
+- 💼 Software Engineer Intern at **Nextoex (Pvt) Ltd** (Aug 2025 – Apr 2026)
+- 🌐 I build clean, responsive web apps with **React.js**, and REST APIs with **Node.js** and **Spring Boot**
+- 🗄️ Experienced with **SQL/MySQL** databases, **Git**, and **Jira**
+- 🚀 Also taking on freelance web development projects
+- 📫 Open to **Software Engineer / Web Developer** opportunities in Sri Lanka and remote
 
 ---
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/chamodya-ishani">
-    <img height="40" src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+## 🛠️ Tech Stack
 
-  <a href="https://wa.me/94789516416" target="_blank">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
-  </a>
-  <a href="mailto:chamodyaishani10@gmail.com" target="_blank">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,java,spring,mysql,mongodb,python,git,postman,figma,firebase" />
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **Project Name 1** | One line: what it does and who it's for | React, Node.js, MongoDB | [Code](https://github.com/ChamodyaIshani99/repo-name) · [Live Demo](https://your-demo-link) |
+| **Project Name 2** | One line: what it does and who it's for | React, Spring Boot, MySQL | [Code](https://github.com/ChamodyaIshani99/repo-name) · [Live Demo](https://your-demo-link) |
+| **Project Name 3** | One line: what it does and who it's for | Your stack here | [Code](https://github.com/ChamodyaIshani99/repo-name) · [Live Demo](https://your-demo-link) |
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <!-- Cloud & DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" />
-
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="TailwindCSS" />
-
-  <!-- JavaScript Technologies -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="NodeJS" />
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50" alt="Spring" />
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" alt="MSSQL" />
-
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50" height="50" alt="Kotlin" />
-
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50" alt="Figma" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="Firebase" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" alt="TensorFlow" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChamodyaIshani99&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaIshani99&theme=ocean_dark&hide_border=true&layout=compact" />
 </p>
 
-<table>
-  <tr>
-    <td width="50%">
-    
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChamodyaIshani99&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ChamodyaIshani99&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaIshani99&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  </td>
-  <td width="50%">
+---
 
-  ## 🔝 Top Contributed Repos
-  <img src="https://github-contributor-stats.vercel.app/api?username=ChamodyaIshani99&limit=5&theme=synthwave&combine_all_yearly_contributions=true" />
-
-  </td>
-  </tr>
-</table>
-
+<p align="center">
+  <i>Let's build something great together. Feel free to reach out! ✨</i>
+</p>
