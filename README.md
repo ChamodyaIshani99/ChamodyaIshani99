@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Chamodya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=800&lines=Software+Engineer;React+%7C+Node.js+%7C+Spring+Boot;SLIIT+IT+Graduate+(BSc+Hons)+2026;Open+to+Software+Engineer+%2F+Web+Developer+roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=120&lines=Software+Engineer+Intern;IT+Graduate+%7C+SLIIT;Web+%26+Mobile+App+Developer;MERN+Stack+%7C+Spring+Boot;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
