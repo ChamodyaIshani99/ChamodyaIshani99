@@ -18,19 +18,23 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 BSc (Hons) in Information Technology graduate from **SLIIT** (2026)
-- 💼 Software Engineer Intern at **Nextoex (Pvt) Ltd** (Aug 2025 – Apr 2026)
-- 🌐 I build clean, responsive web apps with **React.js**, and REST APIs with **Node.js** and **Spring Boot**
-- 🗄️ Experienced with **SQL/MySQL** databases, **Git**, and **Jira**
-- 🚀 Also taking on freelance web development projects
-- 📫 Open to **Software Engineer / Web Developer** opportunities in Sri Lanka and remote
+- 🎓 BSc (Hons) in Information Technology graduate from **SLIIT** (2022-2026)
+- 💼 Software Engineer Intern at **Nextoex (Pvt) Ltd** (Aug 2025 – Feb 2026)
+- 🌐 Build modern, responsive web applications using React.js, Node.js, Spring Boot, and the MERN Stack.
+- 📱 Develop mobile applications using React Native and Flutter.
+- ⚙️ Experienced in building RESTful APIs, backend development, and database management with MongoDB, MySQL, and SQL.
+- 🛠️ Familiar with Java, JavaScript, TypeScript, Dart, Git, and GitHub.
+- 🤖 Passionate about Artificial Intelligence (AI) and Machine Learning (ML).
+- 🧩 A problem solver and quick learner, eager to explore new technologies and build practical solutions.
+- 🚀 Always motivated to learn, grow, and develop user-friendly, scalable applications.
+- 📫 Open to Software Engineer, Full-Stack Developer and Mobile App Developer opportunities in Colombo (On-site), Hybrid, and Remote roles.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,java,spring,mysql,mongodb,python,git,postman,figma,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,java,spring,mysql,mongodb,python,flutter,dart,reactnative,git,postman,figma,firebase" />
 </p>
 
 ---
